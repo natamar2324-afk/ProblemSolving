@@ -77,3 +77,5 @@ def plot_monthly_ratings_bar_chart(months, ratings, park_name):
     plt.tight_layout()
     plt.show()
 
+
+
