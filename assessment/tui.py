@@ -161,4 +161,3 @@ def display_reviews(reviews):
         print(f"Location: {review.get('Reviewer_Location', 'N/A')}")
         print(f"Date: {review.get('Year_Month', 'N/A')}")
         print("-" * 30)
-
