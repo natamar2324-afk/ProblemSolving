@@ -7,7 +7,6 @@ Note:   any user input/output should be done in the module 'tui'
         any processing should be done in the module 'process'
         any visualisation should be done in the module 'visual'
 """
-##
 import tui
 import process
 import visual
